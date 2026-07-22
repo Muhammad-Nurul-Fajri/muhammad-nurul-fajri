@@ -29,15 +29,3 @@ Building modern, scalable, and user-friendly web applications while exploring ne
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Nurul-Fajri&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Nurul-Fajri&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Nurul-Fajri&theme=tokyonight&hide_border=true"/>
-
-</div>
