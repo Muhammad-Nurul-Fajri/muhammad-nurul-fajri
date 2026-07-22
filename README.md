@@ -22,56 +22,28 @@
 
 ---
 
-# 👋 About Me
-
-```javascript
-const fajri = {
-    location: "Padang, Indonesia",
-    education: "Information Systems",
-    role: "Full Stack Developer",
-
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Next.js",
-        "Tailwind CSS",
-        "Bootstrap"
-    ],
-
-    backend: [
-        "Laravel",
-        "PHP",
-        "Node.js",
-        "Express.js"
-    ],
-
-    database: [
-        "MySQL",
-        "PostgreSQL"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Figma",
-        "Postman",
-        "Canva"
-    ],
-
-    currentlyLearning: [
-        "Cloud",
-        "AI",
-        "Docker",
-        "System Design"
-    ]
-}
-```
-
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Muhammad-Nurul-Fajri/Muhammad-Nurul-Fajri/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Muhammad-Nurul-Fajri/Muhammad-Nurul-Fajri/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/Muhammad-Nurul-Fajri/Muhammad-Nurul-Fajri/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 # 🚀 Tech Stack
 
 ### Frontend
