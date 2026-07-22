@@ -1,184 +1,76 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Nurul Fajri 👋
+# Hi 👋, I'm Muhammad Nurul Fajri
 
-### 🚀 Full Stack Developer | UI/UX Designer | Information Systems Student
+### Full Stack Developer • UI/UX Designer • Information Systems Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Laravel+Developer;React+%26+Next.js+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Laravel+%7C+React+%7C+Next.js;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-💻 Passionate about building modern web applications and digital experiences.
-
-🎓 Information Systems Student at **UIN Imam Bonjol Padang**
-
-🌱 Currently learning
-
-- Laravel 13
-- React & Next.js
-- TypeScript
-- PostgreSQL
-- Docker
-- Cloud Deployment
-
-🎯 Interested in
-
-- Full Stack Development
-- UI/UX Design
-- Project Management
-- Artificial Intelligence
-- Startup & Digital Business
-
-⚡ Fun Fact
-
-> "Code, Design, Create, Repeat."
+- 🎓 Information Systems Student at **UIN Imam Bonjol Padang**
+- 💻 Passionate about **Full Stack Development** & **UI/UX Design**
+- 🚀 Currently exploring **Laravel, React, Next.js, TypeScript, PostgreSQL**
+- 🌱 Always learning new technologies and building useful digital products
 
 ---
 
-## 🌐 Connect With Me
+## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,nextjs,nodejs,postgres,mysql,git,github,vscode,figma,docker" />
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Nurul-Fajri&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Nurul-Fajri&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Muhammad-Nurul-Fajri&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
 <a href="https://github.com/Muhammad-Nurul-Fajri">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
 </p>
-
----
-
-# 💻 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,sqlite" />
-</p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,npm,pnpm,vercel,netlify" />
-</p>
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Nurul-Fajri&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Nurul-Fajri&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Muhammad-Nurul-Fajri&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Nurul-Fajri&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Nurul-Fajri&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 PPDB Management System | Student Admission Management System using Laravel |
-| 🌍 Morizka Travel | Modern Umrah & Hajj Travel Website |
-| 📄 Portoku | ATS Friendly CV Builder |
-| 🧠 Healsi | AI Expert System for Burnout Detection |
-| 🍵 Lapau Rindu Raso | Digital Ordering System |
-
----
-
-# 📚 Currently Learning
-
-```text
-███████████████░░░░░  Laravel 13
-
-█████████████░░░░░░░  React
-
-████████████░░░░░░░░  Next.js
-
-███████████░░░░░░░░░ TypeScript
-
-██████████░░░░░░░░░░ Docker
-```
-
----
-
-# 💡 Quote
-
-> "First, solve the problem. Then, write the code."
-
-— John Johnson
 
 ---
 
 <div align="center">
 
-### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=Muhammad-Nurul-Fajri&style=flat-square)
 
-![](https://komarev.com/ghpvc/?username=Muhammad-Nurul-Fajri&color=blue&style=for-the-badge)
-
-### ⭐ Thanks for Visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:4B0082&height=120&section=footer"/>
+*"Keep learning, keep building."*
 
 </div>
